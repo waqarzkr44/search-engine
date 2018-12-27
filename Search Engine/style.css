@@ -1,0 +1,47 @@
+.body {
+	background-color: #f3f3f3;
+	font-family: arial;
+}
+
+.article-container {
+	width: 900px;
+	background-color: #fff;
+	padding: 30px;
+}
+
+.article-box {
+	padding-bottom: 30px;
+	width: 100%;
+}
+
+.input {
+	padding: 0px 20px;
+	width: 300px;
+	height: 40px;
+	font-size: 22px;
+}
+
+.button {
+	width: 100px;
+	height: 44px;
+	font-size: 22px;
+}
+
+.jumbotron
+{
+	padding-top: 20px;
+}
+
+/* reference for picture logo
+https://i.pinimg.com/600x315/18/e0/f3/18e0f3b47e4bb06f1cbfdd4bb28e2233.jpg */
+
+/* reference for youtube video
+https://www.youtube.com/watch?v=lwgG_uIJYQM */
+
+/* reference for websites used
+https://www.w3schools.com/html/default.asp
+https://www.w3schools.com/css/default.asp
+https://www.w3schools.com/sql/default.asp
+https://www.w3schools.com/php/default.asp
+https://www.w3schools.com/js/default.asp
+ */
